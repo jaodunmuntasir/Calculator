@@ -1,0 +1,17 @@
+D:\Programming Language Software Library\C#__Visual Studio Files\Calculator3\bin\Debug\net6.0-windows\Calculator3.exe
+D:\Programming Language Software Library\C#__Visual Studio Files\Calculator3\bin\Debug\net6.0-windows\Calculator3.deps.json
+D:\Programming Language Software Library\C#__Visual Studio Files\Calculator3\bin\Debug\net6.0-windows\Calculator3.runtimeconfig.json
+D:\Programming Language Software Library\C#__Visual Studio Files\Calculator3\bin\Debug\net6.0-windows\Calculator3.dll
+D:\Programming Language Software Library\C#__Visual Studio Files\Calculator3\bin\Debug\net6.0-windows\Calculator3.pdb
+D:\Programming Language Software Library\C#__Visual Studio Files\Calculator3\obj\Debug\net6.0-windows\Calculator3.csproj.AssemblyReference.cache
+D:\Programming Language Software Library\C#__Visual Studio Files\Calculator3\obj\Debug\net6.0-windows\Calculator3.calculator.resources
+D:\Programming Language Software Library\C#__Visual Studio Files\Calculator3\obj\Debug\net6.0-windows\Calculator3.csproj.GenerateResource.cache
+D:\Programming Language Software Library\C#__Visual Studio Files\Calculator3\obj\Debug\net6.0-windows\Calculator3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Language Software Library\C#__Visual Studio Files\Calculator3\obj\Debug\net6.0-windows\Calculator3.AssemblyInfoInputs.cache
+D:\Programming Language Software Library\C#__Visual Studio Files\Calculator3\obj\Debug\net6.0-windows\Calculator3.AssemblyInfo.cs
+D:\Programming Language Software Library\C#__Visual Studio Files\Calculator3\obj\Debug\net6.0-windows\Calculator3.csproj.CoreCompileInputs.cache
+D:\Programming Language Software Library\C#__Visual Studio Files\Calculator3\obj\Debug\net6.0-windows\Calculator3.dll
+D:\Programming Language Software Library\C#__Visual Studio Files\Calculator3\obj\Debug\net6.0-windows\refint\Calculator3.dll
+D:\Programming Language Software Library\C#__Visual Studio Files\Calculator3\obj\Debug\net6.0-windows\Calculator3.pdb
+D:\Programming Language Software Library\C#__Visual Studio Files\Calculator3\obj\Debug\net6.0-windows\Calculator3.genruntimeconfig.cache
+D:\Programming Language Software Library\C#__Visual Studio Files\Calculator3\obj\Debug\net6.0-windows\ref\Calculator3.dll
